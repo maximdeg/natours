@@ -8,7 +8,6 @@ module.exports = class Email {
       this.firstName = userName.split(' ')[0];
       this.url = url;
       this.from = `Maxim Degtiarev <${process.env.EMAIL_FROM}>`;
-      console.log(this);
    }
 
    newTransport() {
