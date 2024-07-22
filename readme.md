@@ -37,7 +37,6 @@ Natours uses a number of open source projects to work properly:
 - [sharp] - image upload optimizator
 - [nodemailer] - free email sending configuration
 - [leaflet] - online API map rendering
-- [jQuery] - duh
 
 ## Installation
 
